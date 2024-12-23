@@ -4,7 +4,7 @@ import signup_img from'../assets/signup.png'
 import edit_img from'../assets/edit.png'
 const User_driction = () => {
   return (
-    <div  className='mt-[2rem] space-y-5 '>
+    <div  className='mt-[2rem] space-y-5  py-[4rem] '>
          
        <h1 className=' text-center text-[2.3rem] font-bold '>How It
        <span className='text-[#EA3C3C]'>  Works</span></h1>

@@ -2,12 +2,12 @@ import React from 'react'
 import car_imgs from'../assets/carimgs.png'
 const About = () => {
   return (
-    <div className=' mt-[11rem] '>
+    <div className=' mt-[5rem] py-[4rem] '>
 
 <h1 className=' text-center text-[2.3rem] font-bold '>About
 <span className='text-[#EA3C3C]'>  Us</span></h1>
         
-        <div className="flex justify-between mx-[5rem] space-x-8 mt-[6rem] ">
+        <div className="flex justify-between mx-[5rem] space-x-8 mt-[4rem] ">
 
         <div className=" ">
         <img className='w-[100vw] h-[400px] ' src={car_imgs}/>
