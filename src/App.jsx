@@ -6,19 +6,25 @@ import User_driction from './Components/User_driction'
 import About from './Components/About'
 import Footer from './Components/Footer'
 import Service from './Components/Service'
+import Signin from './Forms/Singin'
+import Login from './Forms/Login'
+import Vehile_regiter from './Forms/Vehile_regiter'
 
 const App = () => {
   return (
     <div>
       <Header/>
       <Heropage/>
-      {/* <Categories/> */}
-     
+      {/* <Categories/> 
+{/*      
       <Service/>
        <User_driction/>
       <About/>
      
-      <Footer/>
+      <Footer/> */}
+      {/* <Signin/> */}
+      {/* <Login/> */}
+      <Vehile_regiter/>
     </div>
   )
 }
